@@ -29,13 +29,6 @@
 </p>
 
 
-## 📈 GitHub Stats
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sarathi-4&show_icons=true&theme=tokyonight" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarathi-4&layout=compact&theme=tokyonight" alt="Most used languages" />
-</p>
-
-
 <p align="center"><b>Automate. Deploy. Learn. Repeat. 🚀</b></p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/sarathi-4/sarathi-4/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%">
