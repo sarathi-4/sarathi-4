@@ -1,6 +1,6 @@
 <!-- DevOps Profile README -->
 <p align="center">
-  <img src="./devops-banner.jpg" alt="Sarathi DevOps Engineer Banner" width="100%">
+  <img src="./sarathi.png" alt="Sarathi DevOps Engineer Banner" width="100%">
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=DevOps+Engineer;AWS+%7C+Azure+%7C+Terraform;Docker+%7C+GitHub+Actions;Automating+Infrastructure+%26+CI%2FCD" alt="Typing Animation" />
