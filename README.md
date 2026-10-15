@@ -45,3 +45,6 @@ Automated website deployment using GitHub Actions and GitHub Pages.
 - 📧 sarathik2607@gmail.com
 
 <p align="center"><b>Automate. Deploy. Learn. Repeat. 🚀</b></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sarathi-4/sarathi-4/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%">
+</p>
