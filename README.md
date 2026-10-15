@@ -1,4 +1,7 @@
 <!-- DevOps Profile README -->
+<p align="center">
+  <img src="./devops-banner.png" alt="Sarathi DevOps Engineer Banner" width="100%">
+</p>
 <h1 align="center">Hi, I'm Sarathi 👋</h1>
 <h3 align="center">DevOps Engineer | Cloud Enthusiast ☁️</h3>
 <p align="center">Building • Automating • Deploying</p>
