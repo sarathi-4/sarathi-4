@@ -28,11 +28,6 @@
   <img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,githubactions,linux,git,github,bash,vscode" alt="DevOps technology icons" />
 </p>
 
-## 🚀 Featured Project
-### GitHub Actions CI/CD
-Automated website deployment using GitHub Actions and GitHub Pages.
-
-🔗 [View Project](https://github.com/sarathik2607-cpu/github-actions-cicd) | [Live Demo](https://sarathik2607-cpu.github.io/github-actions-cicd/)
 
 ## 📈 GitHub Stats
 <p>
