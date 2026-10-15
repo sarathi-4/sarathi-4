@@ -35,9 +35,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarathi-4&layout=compact&theme=tokyonight" alt="Most used languages" />
 </p>
 
-## 🤝 Connect With Me
-- 💻 [GitHub](https://github.com/sarathi-4)
-- 📧 sarathik2607@gmail.com
 
 <p align="center"><b>Automate. Deploy. Learn. Repeat. 🚀</b></p>
 <p align="center">
